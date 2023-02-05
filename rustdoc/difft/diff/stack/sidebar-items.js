@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Node",""],["Stack","A persistent stack."]]});
